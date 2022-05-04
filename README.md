@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ervinatheresa
 - 👀 I’m interested in creating positive changes to the community
 - 🌱 I’m currently learning software engineering and entrepreneurship
-- 💞️ I’m looking to connect! Love grabbing☕️
+- 💞️ I’m looking to connect! Love grabbing ☕️
 - 📫 How to reach me: https://www.linkedin.com/in/ervina-theresa/
 
 <!---
